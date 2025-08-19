@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/cuplaneclub/static/css/main.f855e6bc.css",
+    "main.js": "/cuplaneclub/static/js/main.1c2f8c97.js",
+    "static/js/453.1c09a6e1.chunk.js": "/cuplaneclub/static/js/453.1c09a6e1.chunk.js",
+    "static/media/logo.svg": "/cuplaneclub/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/cuplaneclub/index.html",
+    "main.f855e6bc.css.map": "/cuplaneclub/static/css/main.f855e6bc.css.map",
+    "main.1c2f8c97.js.map": "/cuplaneclub/static/js/main.1c2f8c97.js.map",
+    "453.1c09a6e1.chunk.js.map": "/cuplaneclub/static/js/453.1c09a6e1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.1c2f8c97.js"
+  ]
+}
