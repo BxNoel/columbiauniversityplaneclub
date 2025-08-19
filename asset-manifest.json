@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/columbiauniversityplaneclub/static/css/main.f855e6bc.css",
-    "main.js": "/columbiauniversityplaneclub/static/js/main.a1ebf88f.js",
+    "main.js": "/columbiauniversityplaneclub/static/js/main.25e02add.js",
     "static/js/453.b9b34a4f.chunk.js": "/columbiauniversityplaneclub/static/js/453.b9b34a4f.chunk.js",
     "static/media/HomepageImage.jpg": "/columbiauniversityplaneclub/static/media/HomepageImage.08c565f450f8e1202d54.jpg",
     "static/media/PlaneClubLogo.png": "/columbiauniversityplaneclub/static/media/PlaneClubLogo.efa8977557f9be9b58a0.png",
     "index.html": "/columbiauniversityplaneclub/index.html",
     "main.f855e6bc.css.map": "/columbiauniversityplaneclub/static/css/main.f855e6bc.css.map",
-    "main.a1ebf88f.js.map": "/columbiauniversityplaneclub/static/js/main.a1ebf88f.js.map",
+    "main.25e02add.js.map": "/columbiauniversityplaneclub/static/js/main.25e02add.js.map",
     "453.b9b34a4f.chunk.js.map": "/columbiauniversityplaneclub/static/js/453.b9b34a4f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.a1ebf88f.js"
+    "static/js/main.25e02add.js"
   ]
 }
